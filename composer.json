@@ -1,0 +1,20 @@
+{
+    "name": "unikforce/easy-ajax-load",
+    "description": "The ajax load for wp.",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Unikforce\\EasyAjaxLoad\\": "includes/"
+        },
+        "files": []
+    },
+    "authors": [
+        {
+            "name": "Md Rakibul Islam",
+            "email": "irakibul189@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
